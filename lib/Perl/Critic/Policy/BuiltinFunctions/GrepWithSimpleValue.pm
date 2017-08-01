@@ -1,4 +1,5 @@
-package
+package Perl::Critic::PolicyBundle::PERLANCAR;
+package # hide from PAUSE
     Perl::Critic::Policy::BuiltinFunctions::GrepWithSimpleValue;
 
 # DATE
@@ -53,6 +54,8 @@ sub violates {
 
 1;
 # ABSTRACT: Warn grep with simple value
+
+=for Pod::Coverage ^(.+)$
 
 =head1 SYNOPSIS
 

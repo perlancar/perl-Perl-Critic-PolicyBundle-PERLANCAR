@@ -1,4 +1,5 @@
-package
+package Perl::Critic::PolicyBundle::PERLANCAR;
+package # hide from PAUSE
     Perl::Critic::Policy::Variables::ProhibitFatCommaInDeclaration;
 
 # DATE
@@ -27,6 +28,8 @@ sub violates {
 
 1;
 # ABSTRACT: Prohibit fat comma in declaration
+
+=for Pod::Coverage ^(.+)$
 
 =head1 SYNOPSIS
 
