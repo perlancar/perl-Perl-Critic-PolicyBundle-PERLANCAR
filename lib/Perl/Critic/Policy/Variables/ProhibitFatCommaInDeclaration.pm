@@ -1,4 +1,4 @@
-package Perl::Critic::PolicyBundle::PERLANCAR;
+package Perl::Critic::PolicyBundle::PERLANCAR::Variables::ProhibitFatCommaInDeclaration;
 package # hide from PAUSE
     Perl::Critic::Policy::Variables::ProhibitFatCommaInDeclaration;
 
