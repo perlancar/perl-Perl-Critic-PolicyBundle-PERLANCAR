@@ -1,3 +1,4 @@
+## no critic (Modules::RequireFilenameMatchesPackage)
 package Perl::Critic::PolicyBundle::PERLANCAR::BuiltinFunctions::GrepWithSimpleValue;
 package # hide from PAUSE
     Perl::Critic::Policy::BuiltinFunctions::GrepWithSimpleValue;

@@ -1,3 +1,4 @@
+## no critic (Modules::RequireFilenameMatchesPackage)
 package Perl::Critic::PolicyBundle::PERLANCAR::Variables::ProhibitFatCommaInDeclaration;
 package # hide from PAUSE
     Perl::Critic::Policy::Variables::ProhibitFatCommaInDeclaration;
